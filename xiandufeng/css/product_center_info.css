@@ -1,0 +1,21 @@
+@charset "utf-8";
+.pro_center_info .pro_info{
+	margin-top: 30px;
+}
+.pro_center_info .pro_info li:nth-child(1),.pro_center_info>.pro_info li:nth-child(2){
+	background-image: url(../images/product_info.png);
+	height: 50px;
+	width: 236px;
+}
+.pro_center_info>.pro_info li:nth-child(3){
+	background-image: url(../images/healty_water.png);
+	height: 50px;
+	width: 326px;
+}
+.pro_center_info>.pro_info li span{
+	display: inline-block;
+	margin: 13px 0 20px 60px;
+	font-size: 16px;
+	color: #FFF;
+}
+
